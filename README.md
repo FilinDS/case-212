@@ -203,3 +203,4 @@
 | Климова Василика                   | Frontend Developer, Avaloq              |
 | Спорыш Семён                       | Backend Developer, г. Санкт-Петербург   |
 | Афоничев Сергей                    | Фрилансер                               |
+| Филин Дмитрий                      | CEO Kremlin Call Centre                 |
